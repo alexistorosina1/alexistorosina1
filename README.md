@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexistorosina1&label=Profile%20views&color=0e75b6&style=flat" alt="alexistorosina1" /> </p>
 
-- 🌱 I’m currently using bitbucket for work**
+- 🌱 I’m currently using bitbucket for work
 
 - 📫 How to reach me **alexistorosina1@gmail.com**
 
